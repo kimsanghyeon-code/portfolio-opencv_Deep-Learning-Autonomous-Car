@@ -13,3 +13,13 @@ matplotlib==3.3.2<br>
 scikit-learn==0.23.2<br>
 tensorflow==2.3.1<br>
 imgaug==0.4.0<br>
+
+<hr>
+
+# Implementation of autonomous cars using neural networks.
+<hr>
+  <h1> Details of implementation </h1>
+<ol>
+  <li>a </li>
+  <li>a </li>
+</ol>
