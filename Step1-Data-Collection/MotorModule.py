@@ -45,9 +45,9 @@ class Motor():
         sleep(t)
 
 def main():
-    motor.move(0.5,0,2)  #전
+    motor.move(0.5,0,2)  #전 (직진, 회전, delay)
     motor.stop(2)
-    motor.move(-0.5,0,2)  #후 
+    motor.move(-0.5,0,2)  #후
     motor.stop(2)
     motor.move(0,0.5,2)  #좌 
     motor.stop(2)
