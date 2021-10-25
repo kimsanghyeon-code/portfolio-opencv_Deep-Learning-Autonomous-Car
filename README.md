@@ -16,6 +16,8 @@ scikit-learn==0.23.2<br>
 tensorflow==2.3.1<br>
 imgaug==0.4.0<br>
 
+#유튜브 링크 
+https://www.youtube.com/channel/UCSaywzVMmYdEqYbF0HnaWPQ
 <hr>
 
 # Implementation of autonomous cars using neural networks.
@@ -35,3 +37,6 @@ matplotlib==3.3.2<br>
 scikit-learn==0.23.2<br>
 tensorflow==2.3.1<br>
 imgaug==0.4.0
+
+#Youtube link
+https://www.youtube.com/channel/UCSaywzVMmYdEqYbF0HnaWPQ
